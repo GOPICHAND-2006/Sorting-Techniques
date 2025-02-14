@@ -1,4 +1,6 @@
 //                           NOTES
+// INSERTION SORT==> Time complexity=O(n^2)==>(Worst case)
+//               Space Complexity=O(1) 
 // First Codition(true codition)
 // 0 1 2 3 4 -- index
 // 4 5 3 2 1 --array
